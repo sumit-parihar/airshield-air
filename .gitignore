@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+firmware/esp32/secrets.h
+backend/.venv/
+backend/.task-temp/
+__pycache__/
+.pytest_cache/
